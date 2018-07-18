@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/testAR.unity
+  isLoaded: 1
+  isActive: 1
